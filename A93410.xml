@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Salmon's answer to Jeremiah Ives's request.</title>
+            <author>Salmon, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93410</idno>
+            <idno type="STC">Wing S420</idno>
+            <idno type="STC">ESTC R183202</idno>
+            <idno type="EEBO-CITATION">45578428</idno>
+            <idno type="OCLC">ocm 45578428</idno>
+            <idno type="VID">172346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172346)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Salmon's answer to Jeremiah Ives's request.</title>
+                  <author>Salmon, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year. 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: VVilliam Salmon.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ives, Jeremiah, fl. 1653-1674.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb facs="tcp:172346:1" rendition="simple:additions"/>
+            <head>William Salmon's ANSWER TO Jeremiah Ives's REQUEST.</head>
+            <p>WHereas one <hi>Jeremiah Ives</hi> has publickly Challenged the Deſpiſed <hi>Quakers</hi> to a particular Diſpute with himſelf, where<g ref="char:EOLhyphen"/>in he promiſes to prove two things, <hi>viz. That the Quakers are no Chriſtians: And that their Miniſters are Impoſtors.</hi> I hereby deſire the ſaid <hi>Jer. Ives</hi> to Conſider the weight of his <hi>Aſſertions,</hi> and to make good his Poſition in Print (if he can) which I think it much the better way, than to brag and boaſt of a Victory before the putting on of his Armour; than to begin Diſputations in great Aſſemblies, where there is nothing of Order or Method, but Diſorder, Confuſion, and Vain Janglings, where a giddy Multitude, who being carried away with ſiniſter Affections and private Intereſts preſume to pro<g ref="char:EOLhyphen"/>nounce Judgment from the ſingle Conſequences of their <hi>Neſcience,</hi> and repreſent things not as they <hi>are</hi> indeed, but as they would <hi>have</hi> them; flattering themſelves onely with the thoughts of a <hi>Conqueſt,</hi> whilſt they are really <hi>Victims:</hi> and with a Faith (not ſo good as that of Devils) promiſe to remove Mountains, whilſt they themſelves are carryed away with every wind, ſpeaking evil of thoſe things they know not. This therefore (for the ſakes of every ſimple Soul) is deſired of <hi>Jeremiah Ives,</hi> that he would not <hi>ſay,</hi> but <hi>do;</hi> not <hi>Diſpute</hi> but <hi>Prove;</hi> not report <hi>Lies,</hi> but ſpeak the <hi>Truth;</hi> and Juſtifie Publickly in Print what he has only affirmed with a Face of Braſs to the World: In ſo doing he avoids a twofold Inconvenience, (to wit) the Interruptions of his Cogitations, and miſrepreſentations of his Words; the which (if they be not Arguments Cogent enough to perſwade) I ſhall urge the ſame upon one more, which is the Credit of his <hi>Cauſe</hi> wherein he is now engaged. If he eſſays to anſwer my Requeſt, I here faithfully promiſe, not only for my ſelf, but in the Name, or in the Sted of that Deſpiſed People, that if he can make good his <hi>Aſſertions,</hi> I will really re<g ref="char:EOLhyphen"/>nounce the Cauſe he ſo much oppuggnes, and publickly declare him and his Abettors, in the Right: But if he cannot juſtifie his Slanders and Lies (for ſuch they are till he has proved them) or otherwiſe refuſes this ſo reaſonable a Propoſal; I ſhall conclude the ſaid <hi>Jeremiah Ives</hi>'s Charges to be not only the refuſe of Lyes, (which God in due ſeaſon will ſweep away) malicious Slanders (of which the Devil himſelf is the Author) but alſo the Propugners thereof to be men of <hi>Beltal</hi> and profeſt Enemies to <hi>Chriſt</hi> and <hi>Christianity.</hi>
+            </p>
+            <p>The Inequality and diſingenious dealings of the Adverſary with the <hi>Quakers</hi> is worthy to be conſidered, in their denying of their Charg againſt <hi>T. Hicks</hi> to be read, although they not only granted it, but had the ſame liberty themſelves: and then the urging of thoſe things firſt to be proved, which would have had a clear Demonſtration by the Sequel of the Diſcourſe, to put them to the pro<g ref="char:EOLhyphen"/>ving of themſelves to be Chriſtians, (which they affirm) when it was their part to prove that they were none, (which they denyed) and might have given to all the Auditory a clear proof of the ſame, would <hi>Jeremiah Ives</hi> or his Aſſociates have brought forth their Arguments in proof of their Aſſertions; the not reſelling of which had been Witneſs enough againſt them, that they had been what the <hi>Baptiſt,</hi> affirmed them to be: till when, the <hi>Quakers Denyal</hi> is Proof and Juſtification enough againſt all the Ma<g ref="char:EOLhyphen"/>lice and Envy of <hi>Jeremiah Ives,</hi> and all other Broachers of Falſhoods, and they do undenyably remain what they affirm them<g ref="char:EOLhyphen"/>ſelves to be, (even True Chriſtians).</p>
+            <p>But wherefore deſire I theſe Reaſonable things, from the hands of Unreaſonable Men? who, (let us ſay what we can) will always make a Conſtruction of our words to the the oppoſite of what we mean, and force them to ſignifie that which is the con<g ref="char:EOLhyphen"/>trary, both to their Natural <hi>ſenſe</hi> and <hi>intentions;</hi> who make the Confeſſion of Faith, although in the Language of the Holy Scrip<g ref="char:EOLhyphen"/>ture, to be but a meer Equivocation, an old art of Deceivers. I ſhould deſire of this Adverſary to the Form of Sound Words, and Enemy to the Chriſtian Faith, to declare how he would have a Chriſtian to expreſs his Belief, ſince he likes not the expreſſi<g ref="char:EOLhyphen"/>ons of the Holy and Chriſtian Spirit, nor Language of its Miniſters declared in Scripture. If my ſerious Profeſſion, and Owning of Chriſt our Lord, be the <hi>Denying</hi> of him; and conſtant belief of Salvation in his <hi>Name</hi> only, and no other under Heaven, be againſt the Doctrine of <hi>Chriſtianity,</hi> I would deſire of <hi>Jeremiah Ives,</hi> or his Abettors, what is the <hi>Owning</hi> of him, and by what manner of expreſſions we muſt <hi>Confeſs</hi> to his Name?</p>
+            <p>Whether what I ſay is may Faith, ought not rather to be taken for my Faith, than what my Adverſary ſays it to be, ſince I better know what I believe than another do's? if yea, wherefore ſhould Envious <hi>Jer. Ives</hi> and his Abettors ſay the contrary? if nay, wherefore ſhould they, or any elſe, be any more believed in any of their Verbal Confeſſions, than I, or another man, ſince there is no reaſon that their credit ſhould exceed in the leaſt meaſure ours, or any other perſons?</p>
+            <p>Let <hi>Jeremiah Ives</hi> out with his Fardle of Slanders and Falſhoods as ſoon as he will, and muſtur up all the Power and Forces of his Might in the defence and proof of the ſame, and <hi>Goliah</hi> like come forth with his <hi>Spear</hi> and his <hi>Sword,</hi> and with the higheſt of Indignities, and Blaſphemies againſt <hi>Heaven,</hi> defie the Hoſts, and Armies of the Living <hi>God:</hi> I here promiſe (through the Aſſiſtance of the <hi>Divine Power</hi>) to encounter him and all his Abettors, and doubt not but by the vertue of the ſame, in the behalf of <hi>God,</hi> his <hi>Truth,</hi> and <hi>People</hi> to ſtand in the face of all their Oppoſites, and ſmiting the Head of the Adverſary with his own Weapon, prove that, at length, upon themſelves, which they have with ſo much Impudence and Falſhood charged upon others.</p>
+            <closer>
+               <dateline>Eaſt end of <hi>Pauls</hi> neer the Free-ſchool, <hi>London,</hi> 
+                  <date>the 20th of <hi>Octob.</hi> 1674.</date>
+               </dateline>
+               <signed>VVilliam Salmon.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year. 1674.</p>
+            <pb facs="tcp:172346:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
